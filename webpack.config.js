@@ -2,7 +2,7 @@
 var path = require('path');
 
 module.exports = {
-  entry: './frontend/index.jsx',
+  entry: './frontend/bench_bnb.jsx',
   output: {
     filename: './app/assets/javascripts/bundle.js',
   },
